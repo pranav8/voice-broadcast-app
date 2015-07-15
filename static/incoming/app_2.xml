@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Sms method="GET" action= "https://2650c429.ngrok.com/static/incoming/app_3.xml">Here's the message</Sms>
+</Response>

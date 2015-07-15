@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say> Sending you a message</Say>
+	<Redirect method="GET"> https://2650c429.ngrok.com/static/incoming/app_2.xml</Redirect>
+</Response>
